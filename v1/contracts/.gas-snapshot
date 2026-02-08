@@ -1,0 +1,3 @@
+RollupTest:test_InitialRoot() (gas: 10015)
+RollupTest:test_RevertOnRootMismatch() (gas: 11935)
+RollupTest:test_RevertOnZeroVerifier() (gas: 39402)
